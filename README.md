@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on AI security, situational awareness, network measurement, vulnerability mining.
+- 🔭 I’m currently working on AI+Privacy Protection, Data Mining and Knowledge Retrieval.
 - 🌱 I’m currently learning on Cyber Security and Engineering in Southeast University, China. 
 - 📫 How to reach me: eaglesfikr@gmail.com
 - :newspaper: For more information, please refer to my homepage: [my homepage](https://blog.7ingwe1.top/)
